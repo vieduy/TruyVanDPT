@@ -1,0 +1,1233 @@
+[
+    {
+        "NO": 2,
+        "BIBID": 4386,
+        "AUTHOR": "Tr\u00e2\u0300n H\u00f4\u0300ng Nghi",
+        "TITLE": "H\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh pha\u0301t tri\u00ea\u0309n \u01b0\u0301ng du\u0323ng tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp. H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Ma\u0323ng ma\u0301y ti\u0301nh",
+            " H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh Android"
+        ],
+        "CONTENT": "Cung c\u00e2\u0301p nh\u01b0\u0303ng ki\u00ea\u0301n th\u01b0\u0301c c\u01a1 ba\u0309n v\u00ea\u0300 c\u00f4ng cu\u0323 pha\u0301t tri\u00ea\u0309n \u01b0\u0301ng du\u0323ng tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng - android studio va\u0300 genymotion, giao di\u00ea\u0323n ng\u01b0\u01a1\u0300i du\u0300ng, listview, fragment, \u0111a ti\u00ea\u0301n tri\u0300nh va\u0300 l\u01b0u tr\u01b0\u0303 d\u01b0\u0303 li\u00ea\u0323u trong android "
+    },
+    {
+        "NO": 3,
+        "BIBID": 4385,
+        "AUTHOR": "L\u00e2m \u0110\u01b0\u0301c Kha\u0309i",
+        "TITLE": "Thi\u00ea\u0301t k\u00ea\u0301 lu\u00e2\u0323n ly\u0301 s\u00f4\u0301 2",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Ky\u0303 thu\u00e2\u0323t ma\u0301y ti\u0301nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 4,
+        "BIBID": 4384,
+        "AUTHOR": "Cao Thi\u0323 Nha\u0323n",
+        "TITLE": "Ph\u00e2n ti\u0301ch thi\u00ea\u0301t k\u00ea\u0301 H\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng tin",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "H\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng tin"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 5,
+        "BIBID": 4382,
+        "AUTHOR": "\u0110\u00f4\u0303 Phu\u0301c",
+        "TITLE": "Ph\u00e2n ti\u0301ch D\u01b0\u0303 li\u00ea\u0323u l\u01a1\u0301n",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "H\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng tin",
+            " Gia\u0301o tri\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 6,
+        "BIBID": 4365,
+        "AUTHOR": "Nguy\u00ea\u0303n Anh Tu\u00e2\u0301n",
+        "TITLE": "H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh Linux",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TPHCM",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh Linux"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 7,
+        "BIBID": 4364,
+        "AUTHOR": "\u0110\u00f4\u0303 Thi\u0323 Minh Phu\u0323ng",
+        "TITLE": "Th\u01b0\u0323c ha\u0300nh C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "CSDL"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 8,
+        "BIBID": 4357,
+        "AUTHOR": "D\u01b0\u01a1ng Minh \u0110\u01b0\u0301c",
+        "TITLE": "\u00c2\u0309n th\u00f4ng tin trong d\u01b0\u0303 li\u00ea\u0323u s\u00f4\u0301 va\u0300 \u01b0\u0301ng du\u0323ng",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 50,
+        "TOPIC": [
+            "D\u01b0\u0303 li\u00ea\u0323u s\u00f4\u0301"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 9,
+        "BIBID": 4356,
+        "AUTHOR": "L\u00e2m \u0110\u01b0\u0301c Kha\u0309i",
+        "TITLE": "L\u00e2\u0323p tri\u0300nh nhu\u0301ng tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Gia\u0301o tri\u0300nh CNTT"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 10,
+        "BIBID": 4354,
+        "AUTHOR": "Cao Thanh Ti\u0300nh",
+        "TITLE": "\u0110a\u0323i s\u00f4\u0301 tuy\u00ea\u0301n ti\u0301nh",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Toa\u0301n cao c\u00e2\u0301p"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 11,
+        "BIBID": 4329,
+        "AUTHOR": "Minh Deltaviet",
+        "TITLE": "C\u01b0\u0301 \u0111i r\u00f4\u0300i se\u0303 \u0111\u00ea\u0301n: Ha\u0300nh tri\u0300nh theo \u0111u\u00f4\u0309i \u01b0\u01a1\u0301c m\u01a1 cu\u0309a ng\u01b0\u01a1\u0300i tre\u0309",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "Th\u00ea\u0301 gi\u01a1\u0301i"
+        ],
+        "CONTENT": "Ba\u0323n \u0111ang \u0111\u01b0\u0301ng tr\u01b0\u01a1\u0301c ng\u01b0\u01a1\u0303ng c\u01b0\u0309a cu\u0309a cu\u00f4\u0323c \u0111\u01a1\u0300i va\u0300 ph\u00e2n v\u00e2n kh\u00f4ng bi\u00ea\u0301t \u0111i h\u01b0\u01a1\u0301ng na\u0300o?\nBa\u0323n la\u0300 m\u00f4\u0323t sinh vi\u00ean va\u0300 mu\u00f4\u0301n ti\u0300m hi\u00ea\u0309u nh\u01b0\u0303ng \u0111i\u00ea\u0300u c\u00e2\u0300n co\u0301 cho ha\u0300nh trang l\u00e2\u0323p nghi\u00ea\u0323p cu\u0309a mi\u0300nh?\nHo\u0103\u0323c \u0111\u01a1n gia\u0309n ba\u0323n la\u0300 m\u00f4\u0323t \u0111\u00f4\u0323c gia\u0309 va\u0300 khao kha\u0301t ti\u0300m la\u0323i n\u0103m tha\u0301ng gia\u0309ng \u0111\u01b0\u01a1\u0300ng qua nh\u01b0\u0303ng trang sa\u0301ch?\n\u0110o\u0301 la\u0300 nh\u01b0\u0303ng gi\u0300 C\u01b0\u0301 \u0111i r\u00f4\u0300i se\u0303 \u0111\u00ea\u0301n mong mu\u00f4\u0301n \u0111em \u0111\u00ea\u0301n cho ba\u0323n. "
+    },
+    {
+        "NO": 12,
+        "BIBID": 4328,
+        "AUTHOR": "Nguy\u00ea\u0303n Ngo\u0323c Tr\u01b0\u01a1\u0300ng",
+        "TITLE": "V\u00e2\u0301n \u0111\u00ea\u0300 v\u00ea\u0300 Bi\u00ea\u0309n \u0110\u00f4ng",
+        "PUBLISHER": "Th\u00ea\u0301 gi\u01a1\u0301i",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "Bi\u00ea\u0309n \u0110\u00f4ng",
+            " Chu\u0309 quy\u00ea\u0300n",
+            " Quan h\u00ea\u0323 qu\u00f4\u0301c t\u00ea\u0301"
+        ],
+        "CONTENT": "\u0110\u01b0a ra ca\u0301c n\u00f4\u0323i dung c\u01a1 ba\u0309n va\u0300 h\u00ea\u0323 th\u00f4\u0301ng v\u00ea\u0300 Bi\u00ea\u0309n \u0110\u00f4ng, chu\u0309 quy\u00ea\u0300n, ki\u00ea\u0309m soa\u0301t, qua\u0309n li\u0301 cu\u0309a Vi\u00ea\u0323t Nam \u0111\u00f4\u0301i v\u01a1\u0301i qu\u00e2\u0300n \u0111a\u0309o Hoa\u0300ng Sa, Tr\u01b0\u01a1\u0300ng Sa va\u0300 v\u00e2\u0301n \u0111\u00ea\u0300 bi\u00ea\u0309n \u0110\u00f4ng trong m\u00f4\u0301i quan h\u00ea\u0323 gi\u01b0\u0303a ca\u0301c n\u01b0\u01a1\u0301c co\u0301 li\u00ean quan "
+    },
+    {
+        "NO": 13,
+        "BIBID": 4326,
+        "AUTHOR": "Tri\u0323nh Thanh \u0110e\u0300o",
+        "TITLE": "\u0110a\u0323i s\u00f4\u0301 B1 : \u0110a\u0323i s\u00f4\u0301 tuy\u00ea\u0301n ti\u0301nh",
+        "PUBLISHER": "Chi\u0301nh tri\u0323 Qu\u00f4\u0301c gia - S\u01b0 th\u00e2\u0323t",
+        "PUBDATE": 2000,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "\u0110a\u0323i s\u00f4\u0301 tuy\u00ea\u0301n ti\u0301nh"
+        ],
+        "CONTENT": "Tri\u0300nh ba\u0300y ki\u00ea\u0301n th\u01b0\u0301c v\u00ea\u0300 s\u00f4\u0301 ph\u01b0\u0301c, ma tr\u00e2\u0323n, \u0111i\u0323nh th\u01b0\u0301c va\u0300 h\u00ea\u0323 ph\u01b0\u01a1ng tri\u0300nh tuy\u00ea\u0301n ti\u0301nh, kh\u00f4ng gian vecto, kh\u00f4ng gian Euclide, a\u0301nh xa\u0323 tuy\u00ea\u0301n ti\u0301nh, tri\u0323 ri\u00eang va\u0300 ve\u0301ct\u01a1 ri\u00eang, da\u0323ng toa\u0300n ph\u01b0\u01a1ng "
+    },
+    {
+        "NO": 14,
+        "BIBID": 4325,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Tri\u0301 Chu\u0309 bi\u00ean",
+        "TITLE": "Toa\u0301n ho\u0323c cao c\u00e2\u0301p. T.2 - Phe\u0301p ti\u0301nh gia\u0309i ti\u0301ch m\u00f4\u0323t bi\u00ea\u0301n s\u00f4\u0301",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Khoa ho\u0323c T\u01b0\u0323 nhi\u00ean - \u0110HQG-HCM",
+        "PUBDATE": 2009,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "515.350711"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 15,
+        "BIBID": 4323,
+        "AUTHOR": "\u0110\u00f4\u0303 C\u00f4ng Khanh",
+        "TITLE": "Toa\u0301n cao c\u00e2\u0301p - \u0110a\u0323i s\u00f4\u0301 tuy\u00ea\u0301n ti\u0301nh",
+        "PUBLISHER": "Gia\u0301o du\u0323c",
+        "PUBDATE": 2009,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "Toa\u0301n cao c\u00e2\u0301p - \u0110a\u0323i s\u00f4\u0301 tuy\u00ea\u0301n ti\u0301nh: Sa\u0301ch da\u0300nh cho sinh vi\u00ean ca\u0301c nga\u0300nh kinh t\u00ea\u0301"
+        ],
+        "CONTENT": "Tri\u0300nh ba\u0300y nh\u01b0\u0303ng ki\u00ea\u0301n th\u01b0\u0301c c\u01a1 ba\u0309n v\u00ea\u0300 t\u00e2\u0323p h\u01a1\u0323p va\u0300 logic, kh\u00f4ng gian vect\u01a1 n - chi\u00ea\u0300u, ma tr\u00e2\u0323n va\u0300 \u0111i\u0323nh th\u01b0\u0301c, h\u00ea\u0323 ph\u01b0\u01a1ng tri\u0300nh tuy\u00ea\u0301n ti\u0301nh va\u0300 da\u0323ng toa\u0300n ph\u01b0\u01a1ng "
+    },
+    {
+        "NO": 16,
+        "BIBID": 4313,
+        "AUTHOR": "Nguy\u00ea\u0303n Gia Tu\u00e2\u0301n Anh",
+        "TITLE": "C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u n\u00e2ng cao : Ta\u0300i li\u00ea\u0323u tham kha\u0309o (Nosol - Newsol - Blockchain)",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia HCM",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 17,
+        "BIBID": 4312,
+        "AUTHOR": "Phan \u0110i\u0300nh Duy",
+        "TITLE": "Th\u01b0\u0323c ha\u0300nh H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2019,
+        "COUNTHOLDING": 200,
+        "TOPIC": [
+            "H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 18,
+        "BIBID": 4153,
+        "AUTHOR": "Tony Bu\u00f4\u0309i Sa\u0301ng",
+        "TITLE": "Ca\u0300 ph\u00ea cu\u0300ng Tony",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tha\u0300nh ph\u00f4\u0301 H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "Ta\u0323p v\u0103n",
+            " V\u0103n ho\u0323c Vi\u00ea\u0323t Nam  - Th\u00ea\u0301 ky\u0309 21"
+        ],
+        "CONTENT": "\u0110\u00e2y la\u0300 t\u00e2\u0323p h\u01a1\u0323p nh\u01b0\u0303ng ba\u0300i vi\u00ea\u0301t cu\u0309a ta\u0301c gia\u0309 Tony bu\u00f4\u0309i sa\u0301ng. \u0110u\u0301ng nh\u01b0 t\u00ean go\u0323i, m\u00f4\u0303i ba\u0300i vi\u00ea\u0301t \u0111\u00ea\u0300u nhe\u0323 nha\u0300ng nh\u01b0 m\u00f4\u0323t ta\u0301ch ca\u0300 ph\u00ea \u0111\u00ea\u0309 ba\u0323n tre\u0309 co\u0301 th\u00ea\u0309 nh\u00e2\u0323n ra m\u00f4\u0323t chu\u0301t gi\u0300 \u0111o\u0301 cu\u0309a chi\u0301nh mi\u0300nh hay ba\u0323n be\u0300 trong \u0111o\u0301. T\u01b0\u0300 chuy\u00ea\u0323n l\u01a1\u0301n nh\u01b0 \u0111i\u0323nh vi\u0323 ba\u0309n th\u00e2n gi\u01b0\u0303a ba\u0323n be\u0300 qu\u00f4\u0301c t\u00ea\u0301, \u0111\u00ea\u0301n chuy\u00ea\u0323n nho\u0309 nh\u01b0 n\u00ean chu\u0301 y\u0301 nh\u01b0\u0303ng phe\u0301p t\u0103\u0301c xa\u0303 giao th\u00f4ng th\u01b0\u01a1\u0300ng "
+    },
+    {
+        "NO": 19,
+        "BIBID": 4152,
+        "AUTHOR": "Rosie Nguy\u00ea\u0303n",
+        "TITLE": "Tu\u00f4\u0309i tre\u0309 \u0111a\u0301ng gia\u0301 bao nhi\u00eau?",
+        "PUBLISHER": "Tre\u0309",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "Tu\u00f4\u0309i tre\u0309 \u0111a\u0301ng gia\u0301 bao nhi\u00eau?"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 20,
+        "BIBID": 4151,
+        "AUTHOR": "Nguy\u00ea\u0303n Tu\u00e2\u0301n \u0110\u0103ng",
+        "TITLE": "Ca\u0301c ky\u0303 thu\u00e2\u0323t trong x\u01b0\u0309 ly\u0301 ng\u00f4n ng\u01b0\u0303 t\u01b0\u0323 nhi\u00ean : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. H\u00f4\u0323i Nha\u0300 v\u0103n",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ng\u00f4n ng\u01b0\u0303 ho\u0323c ma\u0301y ti\u0301nh",
+            " Computational linguistics"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 21,
+        "BIBID": 4150,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Ca\u0301c h\u00ea\u0323 c\u01a1 s\u01a1\u0309 tri th\u01b0\u0301c : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o",
+            " Artificial intelligence"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 22,
+        "BIBID": 4149,
+        "AUTHOR": "Tr\u01b0\u01a1ng Ha\u0309i B\u0103\u0300ng",
+        "TITLE": "Ca\u0301c h\u00ea\u0323 suy di\u00ea\u0303n m\u01a1\u0300 : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "T\u00e2\u0323p m\u01a1\u0300",
+            " Fuzzy sets"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 23,
+        "BIBID": 4148,
+        "AUTHOR": "\u0110\u00f4\u0303 Phu\u0301c",
+        "TITLE": "Khai pha\u0301 d\u01b0\u0303 li\u00ea\u0323u (Data Mining) : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Data",
+            " C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 24,
+        "BIBID": 4144,
+        "AUTHOR": "\u0110\u00f4\u0303 Phu\u0301c",
+        "TITLE": "Ph\u00e2n ti\u0301ch ma\u0323ng xa\u0303 h\u00f4\u0323i va\u0300 \u01b0\u0301ng du\u0323ng : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ma\u0323ng xa\u0303 h\u00f4\u0323i",
+            " \u01af\u0301ng du\u0323ng"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 25,
+        "BIBID": 4143,
+        "AUTHOR": "D\u01b0\u01a1ng T\u00f4n \u0110a\u0309m",
+        "TITLE": "H\u01b0\u01a1\u0301ng d\u00e2\u0303n gia\u0309i ba\u0300i t\u00e2\u0323p xa\u0301c su\u00e2\u0301t va\u0300 th\u00f4\u0301ng k\u00ea toa\u0301n ho\u0323c",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Xa\u0301c su\u00e2\u0301t",
+            " Th\u00f4\u0301ng k\u00ea",
+            " Ba\u0300i t\u00e2\u0323p"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 26,
+        "BIBID": 4142,
+        "AUTHOR": "Tri\u0323nh Minh Tu\u00e2\u0301n",
+        "TITLE": "Thi\u00ea\u0301t k\u00ea\u0301 c\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2012,
+        "COUNTHOLDING": 50,
+        "TOPIC": [
+            "C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u",
+            " Thi\u00ea\u0301t k\u00ea\u0301"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 27,
+        "BIBID": 4140,
+        "AUTHOR": "Nguy\u00ea\u0303n Tu\u00e2\u0301n \u0110\u0103ng",
+        "TITLE": "X\u01b0\u0309 ly\u0301 ng\u00f4n ng\u01b0\u0303 t\u01b0\u0323 nhi\u00ean : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia\u0301 TP.HCM",
+        "PUBDATE": 2017,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Khoa ho\u0323c ma\u0301y ti\u0301nh",
+            " Ng\u00f4n ng\u01b0\u0303 t\u01b0\u0323 nhi\u00ean",
+            " Natural language"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 28,
+        "BIBID": 4139,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Thu\u00e2n",
+        "TITLE": "Hoa\u0323ch \u0111i\u0323nh ngu\u00f4\u0300n l\u01b0\u0323c doanh nghi\u00ea\u0323p - ERP",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "ERP",
+            " Doanh nghi\u00ea\u0323p"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 29,
+        "BIBID": 4138,
+        "AUTHOR": null,
+        "TITLE": "Pha\u0301p ch\u01b0\u0301ng ky\u0303 thu\u00e2\u0323t s\u00f4\u0301",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP. HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Pha\u0301p ch\u01b0\u0301ng",
+            " C\u00f4ng ngh\u00ea\u0323 Th\u00f4ng tin"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 30,
+        "BIBID": 4136,
+        "AUTHOR": null,
+        "TITLE": "Pha\u0301t tri\u00ea\u0309n ph\u00e2\u0300n m\u00ea\u0300m ma\u0303 ngu\u00f4\u0300n m\u01a1\u0309 : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ma\u0303 ngu\u00f4\u0300n m\u01a1\u0309",
+            " Ph\u00e2\u0300n m\u00ea\u0300m"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 31,
+        "BIBID": 4135,
+        "AUTHOR": null,
+        "TITLE": "L\u00e2\u0323p tri\u0300nh h\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng : Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP>HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 250,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh",
+            " Th\u01b0\u0323c ha\u0300nh"
+        ],
+        "CONTENT": "Ta\u0300i li\u00ea\u0323u \u0111\u01b0\u01a1\u0323c bi\u00ean soa\u0323n v\u01a1\u0301i 7 ba\u0300i h\u01b0\u01a1\u0301ng d\u00e2\u0303n chi ti\u00ea\u0301t g\u00f4\u0300m:\n- Ba\u0300i 1: \u00d4n t\u00e2\u0323p va\u0300 gi\u01a1\u0301i thi\u00ea\u0323u ng\u00f4n ng\u01b0\u0303 l\u00e2\u0323p tri\u0300nh C++\n- Ba\u0300i 2: Ca\u0301c kha\u0301i ni\u00ea\u0323m c\u01a1 ba\u0309n v\u00ea\u0300 h\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng\n- Ba\u0300i 3: K\u00ea\u0301 th\u01b0\u0300a\n- Ba\u0300i 4: \u0110a hi\u0300nh\n- Ba\u0300i 5: \u0110a n\u0103ng ho\u0301a toa\u0301n t\u01b0\u0309 va\u0300 ha\u0300m\n- Ba\u0300i 6: Gi\u01a1\u0301i thi\u00ea\u0323u th\u01b0 vi\u00ea\u0323n STL\n- Ba\u0300i 7: M\u00f4\u0323t s\u00f4\u0301 v\u00e2\u0301n \u0111\u00ea\u0300 kha\u0301c "
+    },
+    {
+        "NO": 32,
+        "BIBID": 4134,
+        "AUTHOR": "Vu\u0303 \u0110\u01b0\u0301c Lung",
+        "TITLE": "H\u00ea\u0323 th\u00f4\u0301ng nhu\u0301ng : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh Nhu\u0301ng",
+            " Gia\u0301o tri\u0300nh",
+            " Nhu\u0301ng"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 33,
+        "BIBID": 630,
+        "AUTHOR": "D\u01b0\u01a1ng T\u00f4n \u0110a\u0309m",
+        "TITLE": "M\u00f4\u0323t s\u00f4\u0301 v\u00e2\u0301n \u0111\u00ea\u0300 cho\u0323n lo\u0323c v\u00ea\u0300 toa\u0301n cho c\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TPHCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Toa\u0301n ho\u0323c",
+            " Toa\u0301n m\u01a1\u0300"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 34,
+        "BIBID": 629,
+        "AUTHOR": "D\u01b0\u01a1ng T\u00f4n \u0110a\u0309m",
+        "TITLE": "H\u01b0\u01a1\u0301ng d\u00e2\u0303n gia\u0309i ba\u0300i t\u00e2\u0323p toa\u0301n gia\u0309i ti\u0301ch",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Toa\u0301n cao c\u00e2\u0301p",
+            " Gia\u0309i ti\u0301ch",
+            " Ba\u0300i t\u00e2\u0323p"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 35,
+        "BIBID": 628,
+        "AUTHOR": "Vu\u0303 \u0110\u01b0\u0301c Lung",
+        "TITLE": "Vi \u0111i\u00ea\u0300u khi\u00ea\u0309n : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Vi \u0111i\u00ea\u0300u khi\u00ea\u0309n",
+            " Ky\u0303 thu\u00e2\u0323t ma\u0301y ti\u0301nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 36,
+        "BIBID": 627,
+        "AUTHOR": "L\u00e2m \u0110\u01b0\u0301c Kha\u0309i",
+        "TITLE": "Ki\u00ea\u0301n tru\u0301c ma\u0301y ti\u0301nh n\u00e2ng cao : Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp.HCM",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ky\u0303 thu\u00e2\u0323t ma\u0301y ti\u0301nh",
+            " B\u00f4\u0323 vi x\u01b0\u0309 ly\u0301",
+            " Ki\u00ea\u0301n tru\u0301c ma\u0301y ti\u0301nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 37,
+        "BIBID": 626,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Hi\u00ea\u0309n",
+        "TITLE": "Tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o : Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp. H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o",
+            " Khoa ho\u0323c ma\u0301y ti\u0301nh",
+            " Bi\u00ea\u0309u di\u00ea\u0303n tri th\u01b0\u0301c"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 38,
+        "BIBID": 625,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Bi\u00ea\u0309u di\u00ea\u0303n tri th\u01b0\u0301c va\u0300 suy lu\u00e2\u0323n : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp. H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "M\u00f4 hi\u0300nh tri th\u01b0\u0301c",
+            " C\u01a1 s\u01a1\u0309 tri th\u01b0\u0301c",
+            " Bi\u00ea\u0309u di\u00ea\u0303n tri th\u01b0\u0301c",
+            " Khoa ho\u0323c ma\u0301y ti\u0301nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 39,
+        "BIBID": 624,
+        "AUTHOR": "Nguy\u00ea\u0303n Minh s\u01a1n",
+        "TITLE": "Thi\u00ea\u0301t k\u00ea\u0301 vi ma\u0323ch s\u00f4\u0301 : Gia\u0301o tri\u0300nh",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp. H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2016,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Thi\u00ea\u0301t k\u00ea\u0301 vi ma\u0323ch",
+            " Vi ma\u0323ch s\u00f4\u0301",
+            " Ky\u0303 thu\u00e2\u0323t ma\u0301y ti\u0301nh",
+            " Vi ma\u0323ch \u0111i\u00ea\u0323n t\u01b0\u0309"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 40,
+        "BIBID": 608,
+        "AUTHOR": "Nguy\u00ea\u0303n L\u01b0u Thu\u0300y Ng\u00e2n",
+        "TITLE": "Di\u0323ch ma\u0301y",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp. H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Di\u0323ch ma\u0301y"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 41,
+        "BIBID": 607,
+        "AUTHOR": "Cao Thi\u0323 Kim Tuy\u00ea\u0301n",
+        "TITLE": "H\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh ARCMAP",
+        "PUBLISHER": "Nxb.\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp.HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "ARCMAP",
+            " H\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng tin \u0111i\u0323a ly\u0301"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 42,
+        "BIBID": 606,
+        "AUTHOR": "Nguy\u00ea\u0303n Tu\u00e2\u0301n \u0110\u0103ng",
+        "TITLE": "Gia\u0301o tri\u0300nh ng\u00f4n ng\u01b0\u0303 ho\u0323c ma\u0301y ti\u0301nh",
+        "PUBLISHER": "Nxb.\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp.HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ng\u00f4n ng\u01b0\u0303 ma\u0301y ti\u0301nh",
+            " Ma\u0301y ti\u0301nh",
+            " Gia\u0301o tri\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 43,
+        "BIBID": 605,
+        "AUTHOR": "\u0110inh \u0110\u01b0\u0301c Anh Vu\u0303",
+        "TITLE": "Gia\u0301o tri\u0300nh ly\u0301 thuy\u00ea\u0301t ma\u0323ch \u0111i\u00ea\u0323n",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia Tp.HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ma\u0323ch \u0111i\u00ea\u0323n",
+            " \u0110i\u00ea\u0323n t\u01b0\u0309",
+            " Gia\u0301o tri\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 44,
+        "BIBID": 604,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Gia\u0301o tri\u0300nh c\u00e2\u0301u tru\u0301c d\u01b0\u0303 li\u00ea\u0323u va\u0300 gia\u0309i thu\u00e2\u0323t",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c Gia Tp.HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 250,
+        "TOPIC": [
+            "C\u00e2\u0301u tru\u0301c d\u01b0\u0303 li\u00ea\u0323u",
+            " D\u01b0\u0303 li\u00ea\u0323u",
+            " Data"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 45,
+        "BIBID": 191,
+        "AUTHOR": null,
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh c\u00f4ng ngh\u00ea\u0323 .Net",
+        "PUBLISHER": "Nxb. \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+            " c\u00f4ng ngh\u00ea\u0323 .Net"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 46,
+        "BIBID": 189,
+        "AUTHOR": null,
+        "TITLE": "Gia\u0301o tri\u0300nh tin ho\u0323c \u0111a\u0323i c\u01b0\u01a1ng A2",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2013,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Tin ho\u0323c \u0111a\u0323i c\u01b0\u01a1ng",
+            " Tin ho\u0323c"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 47,
+        "BIBID": 188,
+        "AUTHOR": "Huy\u0300nh Ngo\u0323c Ti\u0301n",
+        "TITLE": "Gia\u0301o tri\u0300nh l\u00e2\u0323p tri\u0300nh Java",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2012,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Java",
+            " L\u00e2\u0323p tri\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 48,
+        "BIBID": 187,
+        "AUTHOR": "D\u01b0\u01a1ng Anh \u0110\u01b0\u0301c",
+        "TITLE": "\u0110\u00f4\u0300 ho\u0323a ma\u0301y ti\u0301nh",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 50,
+        "TOPIC": [
+            "\u0110\u00f4\u0300 ho\u0323a"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 49,
+        "BIBID": 185,
+        "AUTHOR": "Phan Nguy\u00ea\u0323t Minh",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh l\u00e2\u0323p tri\u0300nh nhu\u0301ng c\u0103n ba\u0309n",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh nhu\u0301ng",
+            " Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh"
+        ],
+        "CONTENT": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh na\u0300y cung c\u00e2\u0301p cho sinh vi\u00ean nh\u01b0\u0303ng ki\u00ea\u0301n th\u01b0\u0301c c\u01a1 ba\u0309n v\u00ea\u0300 l\u00e2\u0323p tri\u0300nh nhu\u0301ng: m\u00f4i tr\u01b0\u01a1\u0300ng, n\u00ea\u0300n ta\u0309ng, c\u00e2\u0301u tru\u0301c cu\u0309a \u01b0\u0301ng du\u0323ng nhu\u0301ng, ca\u0301c v\u00e2\u0301n \u0111\u00ea\u0300 v\u00ea\u0300 l\u00e2\u0323p tri\u0300nh \u0111\u00f4\u0300 ho\u0323a, multimedia, l\u00e2\u0323p tri\u0300nh kh\u00f4ng d\u00e2y trong Java ME, l\u00e2\u0323p tri\u0300nh cho vi \u0111i\u00ea\u0300u khi\u00ea\u0309n 8051 v\u01a1\u0301i KeilC, ...\nTa\u0300i li\u00ea\u0323u \u0111\u01b0\u01a1\u0323c bi\u00ean soa\u0323n v\u01a1\u0301i sa\u0301u ba\u0300i h\u01b0\u01a1\u0301ng d\u00e2\u0303n chi ti\u00ea\u0301t:\nBa\u0300i 1: Gi\u01a1\u0301i thi\u00ea\u0323u\nBa\u0300i 2: H\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng trong Java\nBa\u0300i 3: L\u00e2\u0323p tri\u0300nh Java Mobile\nBa\u0300i 4: \u0110\u00f4\u0300 ho\u0323a va\u0300 Multimedia trong Java ME\nBa\u0300i 5: Giao ti\u00ea\u0301p kh\u00f4ng d\u00e2y trong Java ME va\u0300 qua\u0309n ly\u0301 d\u01b0\u0303 li\u00ea\u0323u\nBa\u0300i 6: L\u00e2\u0323p tri\u0300nh nhu\u0301ng v\u01a1\u0301i KeilC "
+    },
+    {
+        "NO": 50,
+        "BIBID": 184,
+        "AUTHOR": "Pha\u0323m Thi V\u01b0\u01a1ng",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh C\u00f4ng ngh\u00ea\u0323 web ASP.NET",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "C\u00f4ng ngh\u00ea\u0323 web ASP.NET",
+            " Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+            " ASP.NET"
+        ],
+        "CONTENT": "Gia\u0301o tri\u0300nh cung c\u00e2\u0301p cho sinh vi\u00ean nh\u01b0\u0303ng ki\u00ea\u0301n th\u01b0\u0301c c\u01a1 ba\u0309n v\u00ea\u0300 l\u00e2\u0323p tri\u0300nh web v\u01a1\u0301i ASP.NET 4.0: m\u00f4i tr\u01b0\u01a1\u0300ng, n\u00ea\u0300n ta\u0309ng, c\u00e2\u0301u tru\u0301c cu\u0309a \u01b0\u0301ng du\u0323ng ASP.NET, ca\u0301c v\u00e2\u0301n \u0111\u00ea\u0300 Web Server Control, qua\u0309n ly\u0301 tra\u0323ng tha\u0301i, ca\u0301c control \u0111\u01b0\u01a1\u0323c du\u0300ng \u0111\u00ea\u0309 x\u01b0\u0301 ly\u0301 database, m\u00f4 hi\u0300nh l\u00e2\u0323p tri\u0300nh MVC trong ASP.NET ...\n\nGia\u0301o tri\u0300nh \u0111\u01b0\u01a1\u0323c bi\u00ean soa\u0323n v\u01a1\u0301i n\u0103m ch\u01b0\u01a1ng h\u01b0\u01a1\u0301ng d\u00e2\u0303n chi ti\u00ea\u0301t:\nCh\u01b0\u01a1ng 1: T\u00f4\u0309ng quan\nCh\u01b0\u01a1ng 2: \u0110i\u00ea\u0300u khi\u00ea\u0309n web server  (Server Controls) - Master Page - Web Navigation\nCh\u01b0\u01a1ng 3: Qua\u0309n ly\u0301 tra\u0323ng tha\u0301i - ca\u0301c tha\u0300nh ph\u00e2\u0300n c\u00e2\u0301u hi\u0300nh\nCh\u01b0\u01a1ng 4: Ca\u0301c control h\u00f4\u0303 tr\u01a1\u0323 tri\u0300nh ba\u0300y, x\u01b0\u0301 ly\u0301 database trong ASP.NET\nCh\u01b0\u01a1ng 5: ASP.NET MVC "
+    },
+    {
+        "NO": 51,
+        "BIBID": 183,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Gia\u0301o tri\u0300nh nh\u00e2\u0323p m\u00f4n C\u00f4ng ngh\u00ea\u0323 ph\u00e2\u0300n m\u00ea\u0300m",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2011,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "C\u00f4ng ngh\u00ea\u0323 ph\u00e2\u0300n m\u00ea\u0300m",
+            " Ph\u00e2\u0300n m\u00ea\u0300m"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 52,
+        "BIBID": 180,
+        "AUTHOR": "Hoa\u0300ng Ki\u00ea\u0301m",
+        "TITLE": "Tin ho\u0323c \u0111a\u0323i c\u01b0\u01a1ng",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Tin ho\u0323c"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 53,
+        "BIBID": 179,
+        "AUTHOR": "Phan \u0110i\u0300nh Duy",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh \u0110i\u00ea\u0323n-\u0110i\u00ea\u0323n t\u01b0\u0309 c\u01a1 ba\u0309n",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "\u0110i\u00ea\u0323n t\u01b0\u0309 c\u01a1 ba\u0309n",
+            " Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 54,
+        "BIBID": 178,
+        "AUTHOR": "Pha\u0323m Thi V\u01b0\u01a1ng",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh L\u00e2\u0323p tri\u0300nh m\u00f4i tr\u01b0\u01a1\u0300ng windows",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+            " Windows",
+            " m\u00f4i tr\u01b0\u01a1\u0300ng windows"
+        ],
+        "CONTENT": "Chu\u0301ng ta co\u0301 th\u00ea\u0309 th\u00e2\u0301y h\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh Windows v\u00e2\u0303n la\u0300 h\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh giao di\u00ea\u0323n \u01b0\u0301ng du\u0323ng chi\u00ea\u0301m m\u00f4\u0323t vai tro\u0300 quan tro\u0323ng trong ma\u0301y ti\u0301nh ca\u0301 nh\u00e2n. Cu\u0300ng v\u01a1\u0301i li\u0323ch s\u01b0\u0309 pha\u0301t tri\u00ea\u0309n cu\u0309a mi\u0300nh, \u0111i\u00ea\u0300u ha\u0300nh Windows li\u00ean tu\u0323c \u0111\u01b0\u01a1\u0323c thay \u0111\u00f4\u0309i va\u0300 c\u00e2\u0323p nh\u00e2\u0323t, va\u0300 nga\u0300y ca\u0300ng tr\u01a1\u0309 n\u00ean hoa\u0300n thi\u00ea\u0323n h\u01a1n. L\u00e2\u0323p tri\u0300nh \u01b0\u0301ng du\u0323ng tr\u00ean Windows nga\u0300y nay nh\u00e2\u0323n \u0111\u01b0\u01a1\u0323c s\u01b0\u0323 h\u00f4\u0303 tr\u01a1\u0323 ma\u0323nh me\u0303 th\u00f4ng qua ca\u0301c m\u00f4i tr\u01b0\u01a1\u0300ng pha\u0301t tri\u00ea\u0309n ti\u0301ch h\u01a1\u0323p, ca\u0301c framework kha\u0301c nhau hay nh\u01b0\u0303ng th\u01b0 vi\u00ea\u0323n kh\u00f4\u0309ng l\u00f4\u0300 giu\u0301p x\u01b0\u0309 ly\u0301 nh\u01b0\u0303ng v\u00e2\u0301n \u0111\u00ea\u0300 trong qua\u0301 tri\u0300nh pha\u0301t tri\u00ea\u0309n \u01b0\u0301ng du\u0323ng tr\u00ean Windows. \nGia\u0301o tri\u0300nh cung c\u00e2\u0301p cho sinh vi\u00ean nh\u01b0\u0303ng ki\u00ea\u0301n th\u01b0\u0301c c\u01a1 ba\u0309n v\u00ea\u0300 l\u00e2\u0323p tri\u0300nh \u01b0\u0301ng du\u0323ng tr\u00ean h\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh Windows, ca\u0301c ba\u0300i t\u00e2\u0323p v\u00ea\u0300 ng\u00f4n ng\u01b0\u0303 l\u00e2\u0323p tri\u0300nh C# - m\u00f4\u0323t ng\u00f4n ng\u01b0\u0303 ma\u0323nh me\u0303 cho vi\u00ea\u0323c pha\u0301t tri\u00ea\u0309n ca\u0301c \u01b0\u0301ng du\u0323ng, ca\u0301c ba\u0300i t\u00e2\u0323p \u01b0\u0301ng du\u0323ng ph\u00f4\u0309 bi\u00ea\u0301n Window Explorer, Paint, ca\u0301c ky\u0303 thu\u00e2\u0323t v\u00e2\u0323n du\u0323ng XNA Framework cho vi\u00ea\u0323c x\u01b0\u0309 ly\u0301 \u0111\u00f4\u0300 ho\u0323a.\nGia\u0301o tri\u0300nh \u0111\u01b0\u01a1\u0323c bi\u00ean soa\u0323n v\u01a1\u0301i b\u00f4\u0301n ch\u01b0\u01a1ng:\nCh\u01b0\u01a1ng 1: Ng\u00f4n ng\u01b0\u0303 C#\nCh\u01b0\u01a1ng 2: Thao ta\u0301c c\u01a1 ba\u0309n v\u01a1\u0301i ca\u0301c \u0111i\u00ea\u0300u khi\u00ea\u0309n \u0111\u00f4\u0300 ho\u0323a - Ch\u01b0\u01a1ng tri\u0300nh Window Explorer\nCh\u01b0\u01a1ng 3: X\u00e2y d\u01b0\u0323ng ch\u01b0\u01a1ng tri\u0300nh Paint Raster\nCh\u01b0\u01a1ng 4: L\u00e2\u0323p tri\u0300nh XNA trong Windows\nPhu\u0323 lu\u0323c: Gi\u01a1\u0301i thi\u00ea\u0323u Microsoft Visual Studio "
+    },
+    {
+        "NO": 55,
+        "BIBID": 177,
+        "AUTHOR": "Vu\u0303 \u0110\u01b0\u0301c Lung",
+        "TITLE": "Ng\u00f4n ng\u01b0\u0303 l\u00e2\u0323p tri\u0300nh ph\u00e2\u0300n c\u01b0\u0301ng Verilog",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ng\u00f4n ng\u01b0\u0303 l\u00e2\u0323p tri\u0300nh",
+            " Ph\u00e2\u0300n c\u01b0\u0301ng",
+            " Verilog"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 56,
+        "BIBID": 176,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Hi\u00ea\u0309n",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh l\u00e2\u0323p tri\u0300nh Symbolic trong tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+            " L\u00e2\u0323p tri\u0300nh Symbolic",
+            " Symbolic"
+        ],
+        "CONTENT": "L\u00e2\u0323p tri\u0300nh Symbolic trong tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o la\u0300 m\u00f4n ho\u0323c mang \u0111\u00ea\u0301n cho sinh vi\u00ean m\u00f4\u0323t ph\u01b0\u01a1ng th\u01b0\u0301c l\u00e2\u0323p tri\u0300nh m\u01a1\u0301i, va\u0300 giu\u0301p cho sinh vi\u00ean co\u0301 th\u00ea\u0309 ti\u00ea\u0301p c\u00e2\u0323n s\u00e2u h\u01a1n ca\u0301c v\u00e2\u0301n \u0111\u00ea\u0300 trong li\u0303nh v\u01b0\u0323c tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o. Hi\u00ea\u0323n nay, co\u0301 r\u00e2\u0301t nhi\u00ea\u0300u c\u00f4ng cu\u0323 \u0111\u00ea\u0309 phu\u0323c vu\u0323 cho vi\u00ea\u0323c l\u00e2\u0323p tri\u0300nh Symbolic nh\u01b0: Maple, Mathematica, Matlab, ... Tuy nhi\u00ean, ch\u01b0\u01a1ng tri\u0300nh Maple, do tr\u01b0\u01a1\u0300ng \u0111a\u0323i ho\u0323c Waterloo (Canada) x\u00e2y d\u01b0\u0323ng, la\u0300 ch\u01b0\u01a1ng tri\u0300nh r\u00e2\u0301t ph\u00f4\u0309 bi\u00ea\u0301n, \u0111\u01b0\u01a1\u0323c nhi\u00ea\u0300u tr\u01b0\u01a1\u0300ng \u0111a\u0323i ho\u0323c tr\u00ean th\u00ea\u0301 gi\u01a1\u0301i \u01b0\u0301ng du\u0323ng va\u0300 gia\u0309ng da\u0323y.\n Trong gia\u0301o tri\u0300nh na\u0300y, ta\u0301c gia\u0309 se\u0303 h\u01b0\u01a1\u0301ng d\u00e2\u0303n vi\u00ea\u0323c l\u00e2\u0323p tri\u0300nh symbolic tr\u00ean c\u01a1 s\u01a1\u0309 cu\u0309a ch\u01b0\u01a1ng tri\u0300nh Maple va\u0300 t\u01b0\u0300 \u0111o\u0301 \u01b0\u0301ng du\u0323ng ph\u01b0\u01a1ng th\u01b0\u0301c l\u00e2\u0323p tri\u0300nh na\u0300y \u0111\u00ea\u0309 gia\u0309i quy\u00ea\u0301t m\u00f4\u0323t s\u00f4\u0301 v\u00e2\u0301n \u0111\u00ea\u0300 trong li\u0303nh v\u01b0\u0323c tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o. Vi\u00ea\u0323c a\u0301p du\u0323ng l\u00e2\u0323p tri\u0300nh symbolic se\u0303 giu\u0301p cho vi\u00ea\u0323c gia\u0309i quy\u00ea\u0301t ca\u0301c ba\u0300i toa\u0301n ti\u0301nh toa\u0301n ph\u01b0\u0301c ta\u0323p tr\u01a1\u0309 n\u00ean \u0111\u01a1n gia\u0309n. \u0110\u00f4\u0300ng th\u01a1\u0300i, cu\u0303ng giu\u0301p chu\u0301ng ta co\u0301 th\u00ea\u0309 x\u00e2y d\u01b0\u0323ng ca\u0301c h\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng minh \u0111\u00ea\u0309 gia\u0309i quy\u00ea\u0301t ca\u0301c v\u00e2\u0301n \u0111\u00ea\u0300 nhanh cho\u0301ng h\u01a1n.\n\nGia\u0301o tri\u0300nh \u0111\u01b0\u01a1\u0323c c\u00e2\u0301u tru\u0301c g\u00f4\u0300m 4 ch\u01b0\u01a1ng:\nCh\u01b0\u01a1ng 1: C\u01a1 s\u01a1\u0309 l\u00e2\u0323p tri\u0300nh symbolic v\u01a1\u0301i maple\nCh\u01b0\u01a1ng 2: C\u00e2\u0301u tru\u0301c \u0111i\u00ea\u0300u khi\u00ea\u0309n va\u0300 thu\u0309 tu\u0323c trong maple\nCh\u01b0\u01a1ng 3: \u01af\u0301ng du\u0323ng trong tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o\nCh\u01b0\u01a1ng 4: Ph\u01b0\u01a1ng pha\u0301p k\u00ea\u0301t n\u00f4\u0301i maple va\u0300 C# "
+    },
+    {
+        "NO": 57,
+        "BIBID": 175,
+        "AUTHOR": "Hoa\u0300ng Ki\u00ea\u0301m",
+        "TITLE": "Ca\u0301c h\u00ea\u0323 c\u01a1 s\u01a1\u0309 tri th\u01b0\u0301c",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2012,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Gia\u0301o tri\u0300nh",
+            " Tri th\u01b0\u0301c"
+        ],
+        "CONTENT": "Gia\u0301o tri\u0300nh na\u0300y la\u0300 m\u00f4\u0323t trong ca\u0301c gia\u0301o tri\u0300nh chi\u0301nh y\u00ea\u0301u cu\u0309a chuy\u00ean nga\u0300nh C\u00f4ng ngh\u00ea\u0323 th\u00f4ng tinh cu\u0309a Tr\u01b0\u01a1\u0300ng \u0110H C\u00f4ng ngh\u00ea\u0323 Th\u00f4ng tin - \u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP H\u00f4\u0300 Chi\u0301 Minh.\nGia\u0301o tri\u0300nh \u0111\u01b0\u01a1\u0323c x\u00e2y d\u01b0\u0323ng theo ph\u01b0\u01a1ng ch\u00e2m v\u01b0\u0300a \u0111a\u0301p \u01b0\u0301ng y\u00eau c\u00e2\u0300u chu\u00e2\u0309n m\u01b0\u0323c cu\u0309a sa\u0301ch gia\u0301o khoa, v\u01b0\u0300a co\u0301 gia\u0301 tri\u0323 th\u01b0\u0323c ti\u00ea\u0303n, \u0111\u00f4\u0300ng th\u01a1\u0300i t\u0103ng c\u01b0\u01a1\u0300ng kha\u0309 n\u0103ng t\u01b0\u0323 ho\u0323c, t\u01b0\u0323 nghi\u00ean c\u01b0\u0301u cu\u0309a sinh vi\u00ean. Tr\u00ean c\u01a1 s\u01a1\u0309 \u0111o\u0301, nho\u0301m ta\u0301c gia\u0309 \u0111a\u0303 tham kha\u0309o nhi\u00ea\u0300u ta\u0300i li\u00ea\u0323u co\u0301 gia\u0301 tri\u0323 cu\u0309a ca\u0301c ta\u0301c gia\u0309 trong va\u0300 ngoa\u0300i n\u01b0\u01a1\u0301c va\u0300 \u0111a\u0303 s\u01b0\u0309 du\u0323ng nhi\u00ea\u0300u vi\u0301 du\u0323 l\u00e2\u0301y t\u01b0\u0300 ca\u0301c \u01b0\u0301ng du\u0323ng th\u01b0\u0323c ti\u00ea\u0303n "
+    },
+    {
+        "NO": 58,
+        "BIBID": 174,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Thu\u00e2n",
+        "TITLE": "Gia\u0301o tri\u0300nh c\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin trong th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309",
+            " C\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin"
+        ],
+        "CONTENT": "Th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309 nga\u0300y ca\u0300ng \u0111\u01b0\u01a1\u0323c bi\u00ea\u0301t t\u01a1\u0301i nh\u01b0 m\u00f4\u0323t ph\u01b0\u01a1ng th\u01b0\u0301c kinh doanh hi\u00ea\u0323u qua\u0309 t\u01b0\u0300 khi Internet hi\u0300nh tha\u0300nh va\u0300 pha\u0301t tri\u00ea\u0309n. Th\u00f4ng qua ca\u0301c ph\u01b0\u01a1ng ti\u00ea\u0323n \u0111i\u00ea\u0323n t\u01b0\u0309 m\u01a1\u0301i, ca\u0301c hoa\u0323t \u0111\u00f4\u0323ng th\u01b0\u01a1ng ma\u0323i \u0111\u01b0\u01a1\u0323c th\u01b0\u0323c hi\u00ea\u0323n nhanh h\u01a1n, hi\u00ea\u0323u qua\u0309 h\u01a1n, giu\u0301p ti\u00ea\u0301t ki\u00ea\u0323m chi phi\u0301 va\u0300 m\u01a1\u0309 r\u00f4\u0323ng kh\u00f4ng gian kinh doanh.\n Gia\u0301o tri\u0300nh \"C\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin trong th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309\" giu\u0301p \u0111\u00f4\u0323c gia\u0309 co\u0301 nh\u01b0\u0303ng ki\u00ea\u0301n th\u01b0\u0301c c\u00e2\u0300n thi\u00ea\u0301t trong vi\u00ea\u0323c x\u00e2y d\u01b0\u0323ng va\u0300 pha\u0301t tri\u00ea\u0309n m\u00f4\u0323t \u01b0\u0301ng du\u0323ng trong li\u0303nh v\u01b0\u0323c th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309.\n\nGia\u0301o tri\u0300nh \u0111\u01b0\u01a1\u0323c chia tha\u0300nh 7 ch\u01b0\u01a1ng, cung c\u00e2\u0301p ca\u0301c ki\u00ea\u0301n th\u01b0\u0301c c\u01a1 ba\u0309n v\u00ea\u0300 th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309:\nCh\u01b0\u01a1ng 1: T\u00f4\u0309ng quan v\u00ea\u0300 th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309\nCh\u01b0\u01a1ng 2: M\u00f4 hi\u0300nh va\u0300 chi\u00ea\u0301n l\u01b0\u01a1\u0323c kinh doanh \u0111i\u00ea\u0323n t\u01b0\u0309\nCh\u01b0\u01a1ng 3: Ti\u00ea\u0301p thi\u0323 tr\u01b0\u0323c tuy\u00ea\u0301n E-Marketing\nCh\u01b0\u01a1ng 4: Truy\u00ea\u0300n th\u00f4ng Marketing\nCh\u01b0\u01a1ng 5: \u01af\u0301ng du\u0323ng cu\u0309a th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309\nCh\u01b0\u01a1ng 6: X\u00e2y d\u01b0\u0323ng m\u00f4\u0323t website th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309\nCh\u01b0\u01a1ng 7: Ca\u0301c v\u00e2\u0301n \u0111\u00ea\u0300 v\u00ea\u0300 xa\u0303 h\u00f4\u0323i va\u0300 lu\u00e2\u0323t li\u00ean quan \u0111\u00ea\u0301n th\u01b0\u01a1ng ma\u0323i \u0111i\u00ea\u0323n t\u01b0\u0309 "
+    },
+    {
+        "NO": 59,
+        "BIBID": 173,
+        "AUTHOR": "Pha\u0323m Thi V\u01b0\u01a1ng",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh l\u00e2\u0323p tri\u0300nh tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng",
+        "PUBLISHER": "\u0110a\u0323i ho\u0323c Qu\u00f4\u0301c gia TP. H\u00f4\u0300 Chi\u0301 Minh",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng",
+            " Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n"
+        ],
+        "CONTENT": "Trong cu\u00f4\u0323c s\u00f4\u0301ng hi\u00ea\u0323n \u0111a\u0323i nga\u0300y nay, thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng \u0111a\u0303 d\u00e2\u0300n tr\u01a1\u0309 tha\u0300nh m\u00f4\u0323t c\u00f4ng cu\u0323 thi\u00ea\u0301t y\u00ea\u0301u. V\u01a1\u0301i \u01b0u th\u00ea\u0301 nho\u0309 go\u0323n va\u0300 nga\u0300y ca\u0300ng \u0111\u01b0\u01a1\u0323c ca\u0309i ti\u00ea\u0301n, thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng \u0111a\u0303 phu\u0323c vu\u0323 ma\u0323nh me\u0303 cho ca\u0301c hoa\u0323t \u0111\u00f4\u0323ng va\u0300 nhu c\u00e2\u0300u cu\u0309a con ng\u01b0\u01a1\u0300i. Pha\u0301t tri\u00ea\u0309n \u01b0\u0301ng du\u0323ng tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng \u0111em \u0111\u00ea\u0301n cho con ng\u01b0\u01a1\u0300i nh\u01b0\u0303ng ph\u00e2\u0300n m\u00ea\u0300m ti\u00ea\u0323n i\u0301ch \u0111\u00f4\u0323c \u0111a\u0301o va\u0300 thi\u00ea\u0301t th\u01b0\u0323c.\n Gia\u0301o tri\u0300nh \"H\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh l\u00e2\u0323p tri\u0300nh tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng\" \u0111\u01b0\u01a1\u0323c bi\u00ean soa\u0323n nh\u0103\u0300m gi\u01a1\u0301i thi\u00ea\u0323u cho sinh vi\u00ean v\u00ea\u0300 ca\u0301c v\u00e2\u0301n \u0111\u00ea\u0300 va\u0300 ky\u0303 thu\u00e2\u0323t l\u00e2\u0323p tri\u0300nh tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng. Sinh vi\u00ean se\u0303 \u0111\u01b0\u01a1\u0323c ho\u0323c t\u00e2\u0323p va\u0300 la\u0300m quen v\u01a1\u0301i ca\u0301c ng\u00f4n ng\u01b0\u0303 l\u00e2\u0323p tri\u0300nh \u0111\u01b0\u01a1\u0323c s\u01b0\u0309 du\u0323ng va\u0300 ca\u0301c ph\u01b0\u01a1ng pha\u0301p l\u00e2\u0323p tr\u00ean thi\u00ea\u0301t bi\u0323 di \u0111\u00f4\u0323ng.\n\nGia\u0301o tri\u0300nh \u0111\u01b0\u01a1\u0323c bi\u00ean soa\u0323n v\u01a1\u0301i sa\u0301u ba\u0300i h\u01b0\u01a1\u0301ng d\u00e2\u0303n chi ti\u00ea\u0301t:\nBA\u0300I 1: HELLO WINDOWS PHONE\nBA\u0300I 2: CA\u0301C B\u00d4\u0323 \u0110I\u00ca\u0300U KHI\u00ca\u0309N VA\u0300 M\u00d4 HI\u0300NH \u0110I\u00ca\u0300U H\u01af\u01a0\u0301NG TRONG WINDOWS PHONE\nBA\u0300I 3: CA\u0301C B\u00d4\u0323 \u0110I\u00ca\u0300U KHI\u00ca\u0309N \u0110\u0102\u0323C BI\u00ca\u0323T\nBA\u0300I 4: L\u00c2\u0323P TRI\u0300NH GAMES TR\u00caN WINDOWS PHONE\nBA\u0300I 5: T\u01af\u01a0NG TA\u0301C C\u01a0 S\u01a0\u0309 D\u01af\u0303 LI\u00ca\u0323U TRONG L\u00c2\u0323P TRI\u0300NH TR\u00caN THI\u00ca\u0301T BI\u0323 DI \u0110\u00d4\u0323NG\nBA\u0300I 6: CA\u0301C T\u01af\u01a0NG TA\u0301C VA\u0300 TRUY XU\u00c2\u0301T \u0110\u00ca\u0301N PH\u00c2\u0300N C\u01af\u0301NG CU\u0309A THI\u00ca\u0301T BI\u0323 DI \u0110\u00d4\u0323NG "
+    },
+    {
+        "NO": 60,
+        "BIBID": 172,
+        "AUTHOR": "L\u00e2m \u0110\u01b0\u0301c Kha\u0309i",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh ma\u0323ch s\u00f4\u0301 va\u0300 thi\u00ea\u0301t k\u00ea\u0301 ma\u0323ch s\u00f4\u0301 v\u01a1\u0301i Verilog",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "ma\u0323ch s\u00f4\u0301 va\u0300 thi\u00ea\u0301t k\u00ea\u0301 ma\u0323ch s\u00f4\u0301",
+            " Verilog",
+            " Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 61,
+        "BIBID": 171,
+        "AUTHOR": "D\u01b0\u01a1ng Ki\u00ea\u0300u Hoa",
+        "TITLE": "Ph\u00e2n ti\u0301ch h\u00ea\u0323 th\u00f4\u0301ng h\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng v\u01a1\u0301i UML",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2011,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "UML",
+            " H\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 62,
+        "BIBID": 167,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Toa\u0301n cao c\u00e2\u0301p A2",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2012,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Toa\u0301n A2"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 63,
+        "BIBID": 164,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Thu\u00e2n",
+        "TITLE": "Gia\u0301o tri\u0300nh pha\u0301t tri\u00ea\u0309n \u01b0\u0301ng du\u0323ng Web",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh",
+            " \u01af\u0301ng du\u0323ng Web"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 64,
+        "BIBID": 163,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110i\u0300nh Quy\u00ea\u0300n",
+        "TITLE": "L\u00e2\u0323p tri\u0300nh C tr\u00ean Windows",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 50,
+        "TOPIC": [
+            "Windows",
+            " L\u00e2\u0323p tri\u0300nh C"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 65,
+        "BIBID": 162,
+        "AUTHOR": "Tr\u00e2\u0300n Ha\u0323nh Nhi",
+        "TITLE": "H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 66,
+        "BIBID": 161,
+        "AUTHOR": "T\u00f4 Anh Du\u0303ng",
+        "TITLE": "Gia\u0301o tri\u0300nh Xa\u0301c su\u00e2\u0301t th\u00f4\u0301ng k\u00ea",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2008,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Xa\u0301c su\u00e2\u0301t th\u00f4\u0301ng k\u00ea",
+            " Toa\u0301n ho\u0323c"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 67,
+        "BIBID": 160,
+        "AUTHOR": "Vo\u0303 \u0110\u01b0\u0301c Kha\u0301nh",
+        "TITLE": "X\u01b0\u0309 ly\u0301 a\u0309nh",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 100,
+        "TOPIC": [],
+        "CONTENT": null
+    },
+    {
+        "NO": 68,
+        "BIBID": 159,
+        "AUTHOR": "Vu\u0303 Thanh Nguy\u00ean",
+        "TITLE": "Gia\u0301o tri\u0300nh \u0111\u0103\u0323c ta\u0309 hi\u0300nh th\u01b0\u0301c",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Gia\u0301o tri\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 69,
+        "BIBID": 157,
+        "AUTHOR": "Huy\u0300nh Ngo\u0323c Ti\u0301n",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh chuy\u00ean \u0111\u00ea\u0300 J2E",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+            " J2EE/JEE"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 70,
+        "BIBID": 156,
+        "AUTHOR": "Nguy\u00ea\u0303n \u0110\u0103ng Ty\u0323",
+        "TITLE": "C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 200,
+        "TOPIC": [
+            "SQL",
+            " C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 71,
+        "BIBID": 155,
+        "AUTHOR": "Vu\u0303 Thanh Nguy\u00ean",
+        "TITLE": "Gia\u0301o tri\u0300nh nh\u00e2\u0323p m\u00f4n pha\u0301t tri\u00ea\u0309n game",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Game"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 72,
+        "BIBID": 154,
+        "AUTHOR": "Hoa\u0300ng Ki\u00ea\u0301m",
+        "TITLE": "Nh\u00e2\u0323p m\u00f4n tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2011,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Tri\u0301 tu\u00ea\u0323 nh\u00e2n ta\u0323o"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 73,
+        "BIBID": 153,
+        "AUTHOR": "Nguy\u00ea\u0303n Bi\u0300nh D\u01b0\u01a1ng",
+        "TITLE": "Ma\u0323ng ma\u0301y ti\u0301nh",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 200,
+        "TOPIC": [
+            "Ma\u0301y ti\u0301nh",
+            " Ma\u0323ng"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 74,
+        "BIBID": 152,
+        "AUTHOR": "Nguy\u00ea\u0303n Thi\u0323 Thanh Tru\u0301c",
+        "TITLE": "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh Qua\u0309n tri\u0323 d\u01b0\u0323 a\u0301n c\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ta\u0300i li\u00ea\u0323u h\u01b0\u01a1\u0301ng d\u00e2\u0303n th\u01b0\u0323c ha\u0300nh",
+            " D\u01b0\u0323 a\u0301n c\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin",
+            "http://thuvien.uit.edu.vn/_Layouts/15/Vebrary/tailieuso/Reader.aspx?i=8510&kdd=dd2014&mdd=web"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 75,
+        "BIBID": 151,
+        "AUTHOR": "Nguy\u00ea\u0303n Thanh Hu\u0300ng",
+        "TITLE": "Ly\u0301 thuy\u00ea\u0301t \u0111\u00f4\u0300 thi\u0323",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2008,
+        "COUNTHOLDING": 21,
+        "TOPIC": [
+            "Ly\u0301 thuy\u00ea\u0301t",
+            " \u0110\u00f4\u0300 thi\u0323"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 76,
+        "BIBID": 147,
+        "AUTHOR": "\u0110inh \u0110\u01b0\u0301c Anh Vu\u0303",
+        "TITLE": "Thi\u00ea\u0301t k\u00ea\u0301 lu\u00e2\u0323n ly\u0301 s\u00f4\u0301",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2015,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ly\u0301 lu\u00e2\u0323n s\u00f4\u0301"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 77,
+        "BIBID": 146,
+        "AUTHOR": "Bu\u0300i Thanh Hi\u00ea\u0301u",
+        "TITLE": "Th\u01b0\u0323c ha\u0300nh x\u01b0\u0309 ly\u0301 ti\u0301n hi\u00ea\u0323u s\u00f4\u0301",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Ti\u0301n hi\u00ea\u0323u s\u00f4\u0301"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 78,
+        "BIBID": 145,
+        "AUTHOR": "Bu\u0300i Thanh Hi\u00ea\u0301u",
+        "TITLE": "L\u00e2\u0323p tri\u0300nh h\u00ea\u0323 th\u00f4\u0301ng v\u01a1\u0301i Java",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh h\u00ea\u0323 th\u00f4\u0301ng",
+            " Java"
+        ],
+        "CONTENT": "Gia\u0301o tri\u0300nh ta\u0323m ch\u01b0a phu\u0323c vu\u0323 "
+    },
+    {
+        "NO": 79,
+        "BIBID": 143,
+        "AUTHOR": "\u0110\u00f4\u0303 Phu\u0301c",
+        "TITLE": "Khai tha\u0301c d\u01b0\u0303 li\u00ea\u0323u",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2013,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "Khai tha\u0301c d\u01b0\u0303 li\u00ea\u0323u",
+            " D\u01b0\u0303 li\u00ea\u0323u"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 80,
+        "BIBID": 142,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Toa\u0301n r\u01a1\u0300i ra\u0323c",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 100,
+        "TOPIC": [],
+        "CONTENT": null
+    },
+    {
+        "NO": 81,
+        "BIBID": 140,
+        "AUTHOR": "Tr\u01b0\u01a1ng Ha\u0309i B\u0103\u0300ng",
+        "TITLE": "L\u00e2\u0323p tri\u0300nh h\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2011,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "L\u00e2\u0323p tri\u0300nh",
+            " H\u01b0\u01a1\u0301ng \u0111\u00f4\u0301i t\u01b0\u01a1\u0323ng"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 82,
+        "BIBID": 139,
+        "AUTHOR": "Vu\u0303 \u0110\u01b0\u0301c Lung",
+        "TITLE": "Ki\u00ea\u0301n tru\u0301c ma\u0301y ti\u0301nh",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2011,
+        "COUNTHOLDING": 100,
+        "TOPIC": [],
+        "CONTENT": null
+    },
+    {
+        "NO": 83,
+        "BIBID": 138,
+        "AUTHOR": "Huy\u0300nh Ngo\u0323c Ti\u0301n",
+        "TITLE": "Ph\u00e2n ti\u0301ch thi\u00ea\u0301t k\u00ea\u0301 h\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng tin",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2008,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "H\u00ea\u0323 th\u00f4\u0301ng th\u00f4ng tin"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 84,
+        "BIBID": 134,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Toa\u0301n cao c\u00e2\u0301p A3",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2013,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Toa\u0301n A3"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 85,
+        "BIBID": 133,
+        "AUTHOR": "\u0110\u00f4\u0303 V\u0103n Nh\u01a1n",
+        "TITLE": "Toa\u0301n cao c\u00e2\u0301p A1",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2013,
+        "COUNTHOLDING": 228,
+        "TOPIC": [
+            "Toa\u0301n A1"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 86,
+        "BIBID": 132,
+        "AUTHOR": "Nguy\u00ea\u0303n Anh Tu\u00e2\u0301n",
+        "TITLE": "H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh Redhat Linux",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 1,
+        "TOPIC": [
+            "Linux",
+            " H\u00ea\u0323 \u0111i\u00ea\u0300u ha\u0300nh"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 87,
+        "BIBID": 126,
+        "AUTHOR": "L\u00ea Ma\u0323nh",
+        "TITLE": "Gia\u0301o tri\u0300nh Linh ki\u00ea\u0323n \u0111i\u00ea\u0323n t\u01b0\u0309 va\u0300 vi ma\u0323ch \u0111i\u00ea\u0323n t\u01b0\u0309",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2014,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Vi ma\u0323ch",
+            " \u0110i\u00ea\u0323n t\u01b0\u0309",
+            " Linh ki\u00ea\u0323n"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 88,
+        "BIBID": 122,
+        "AUTHOR": "Nguy\u00ea\u0303n Thi\u0323 Tra\u0300 Linh",
+        "TITLE": "H\u00ea\u0323 qua\u0309n tri\u0323 c\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u v\u01a1\u0301i Oracle",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2013,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "C\u01a1 s\u01a1\u0309 d\u01b0\u0303 li\u00ea\u0323u",
+            " Oracle",
+            " H\u00ea\u0323 qua\u0309n tri\u0323"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 89,
+        "BIBID": 120,
+        "AUTHOR": "Nguy\u00ea\u0303n Thi\u0323nh",
+        "TITLE": "\u0110\u00f4\u0300 ho\u0323a \u01b0\u0301ng du\u0323ng",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2005,
+        "COUNTHOLDING": 100,
+        "TOPIC": [
+            "\u0110\u00f4\u0300 ho\u0323a"
+        ],
+        "CONTENT": null
+    },
+    {
+        "NO": 90,
+        "BIBID": 119,
+        "AUTHOR": "Ng\u00f4 Trung Vi\u00ea\u0323t",
+        "TITLE": "Qua\u0309n ly\u0301 d\u01b0\u0323 a\u0301n c\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin",
+        "PUBLISHER": "\u0110HQG TP. HCM",
+        "PUBDATE": 2010,
+        "COUNTHOLDING": 150,
+        "TOPIC": [
+            "Qua\u0309n ly\u0301 d\u01b0\u0323 a\u0301n",
+            " C\u00f4ng ngh\u00ea\u0323 th\u00f4ng tin"
+        ],
+        "CONTENT": null
+    }
+]

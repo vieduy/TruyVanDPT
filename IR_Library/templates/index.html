@@ -1,0 +1,86 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="colorlib.com">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="s003">
+      <form action="{{ url_for('index') }}" method="post" name="search">
+        <div class="inner-form">
+          <div class="input-field first-wrap">
+            <div class="input-select">
+              <select data-trigger="" name="comp_select" >
+                <option placeholder="">TITLE</option>
+                  {% for o in categories %}
+              <option value="{{ o}}">{{o}}</option>
+              {% endfor %}
+              </select>
+            </div>
+          </div>
+          <div class="input-field second-wrap">
+            {{ form.search(size=20) }}
+          </div>
+          <div class="input-field third-wrap">
+            <button class="btn-search" type="submit" value="Search">
+              <svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path>
+              </svg>
+            </button>
+          </div>
+        </div>
+        {% if results %}
+        <div class="container" style="padding: 2rem 0rem;">
+          <div class="row">
+            <div class="col-12">
+                <div class="wrap-all" style="background-color: white; border-radius: 7px">
+                  <div style="display: flex; font-size: 20px; padding-top: 10px; color: gray;">
+                    <div style="margin-right:30px; margin-left: 10px">STT</div>
+                    <div style="margin-right:0px">Bìa</div>
+                    <div style="margin-left:265px">Thông tin</div>
+                  </div>
+                  <hr width="100%"/>
+                  <script>
+                    var d = 0
+                  </script>
+        {% for o in results %}
+                  <div  style="display: flex; padding: 10px;">
+                    <script type="text/javascript">
+                    d = d + 1
+                    document.getElementById('d').innerHTML  = d;
+                    </script>
+                    <div id="${{d}}" style="padding: 5px; background-color: white; margin-right: 5px; border-radius: 10px; width: 20px;font-size: 20px;padding-top: 50px"></div>
+                    <div class="w-25" style="padding: 10px; background-color: white;border-radius: 10px;">
+                        <img class="img-fluid img-thumbnail" alt="Sheep" src=http://thuvien.uit.edu.vn/Portal/Editbib_ViewPicture/?bibid=%20{{data[o-2]['BIBID']}} style="height: 134px; width: 90px" id="imageBox">
+                    </div>
+                    <div style="padding: 5px; background-color: white; border-radius: 10px;margin-left: 40px;font-size: 17px; width: 576px">
+                      <div><strong style="color:red; font-size: 25px; margin-top: 10px"><a style="text-decoration:none; color:red;" href=http://thuvien.uit.edu.vn/Portal/BookDetail?bibid={{data[o-2]['BIBID']}}&No=2&dbID=-1>{{data[o-2]['TITLE']}}</a></strong></div>
+                      <div style="margin-top: 10px"><strong style="color:black; font-size: 15px;">{{data[o-2]['AUTHOR']}}</strong></div>
+                      <div style="margin-top: 10px"><strong style="color:black; font-size: 15px;">Chủ đề: {{', '.join(data[o-2]['TOPIC'])}}</strong></div>
+                      <div style="margin-top: 10px"><strong style="color:black;  font-size: 15px;">Năm: {{data[o-2]['PUBDATE']}}</strong></div>
+                      <div style="margin-top: 10px"><strong style="color:black;  font-size: 15px;">NXB: {{data[o-2]['PUBLISHER']}}</strong></div>
+                    </div>
+                  </div>
+                  <hr width="100%" aline="center"/>
+        {% endfor %}
+                </div>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      </form>
+    </div>
+    <script src="{{ url_for('static', filename='js/extention/choices.js') }}"></script>
+    <script>
+      const choices = new Choices('[data-trigger]',
+      {
+        searchEnabled: false,
+        itemSelectText: '',
+      });
+
+    </script>
+  </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>

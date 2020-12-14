@@ -834,7 +834,7 @@ legend {
 .s003 form .inner-form {
   background: #fff;
   display: -ms-flexbox;
-  display: flex;
+  display: block;
   width: 100%;
   -ms-flex-pack: justify;
       justify-content: space-between;

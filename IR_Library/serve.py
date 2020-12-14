@@ -1,5 +1,5 @@
 from vector_space import *
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, url_for, redirect
 from forms import *
 import json
 
@@ -23,10 +23,17 @@ def index():
     form = SearchForm()
     query = form.data['search']
     selected = request.form.get('comp_select')
-    if query != None:
+    checkbox = request.form.get('rating')
+    if checkbox is not None:
+        f = open("rating/rating.txt", "a")
+        f.write(checkbox+'\n')
+        f.close()
+        return render_template('index.html', form=form, categories=categories)
+    if query is not None:
         results = {
             'query': query,
-            'category': selected
+            'category': selected,
+            'checkbox': checkbox
         }
         results = predict(results)
         return render_template('index.html', form=form, query=query, results=results, data=data, categories=categories)
@@ -43,9 +50,13 @@ def predict(res):
         rank = Search(res['query'], res['category'])
         # argmax 5
         data["rank"] = rank[:5]
-    else:
-        print('ERROR!')
     return data["rank"]
+
+
+@app.route("/redirect", methods=["POST"])
+def redirect():
+    form = SearchForm()
+    return render_template('index.html', form=form, categories=categories)
 
 
 if __name__ == "__main__":

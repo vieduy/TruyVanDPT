@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd82330c-2353-4d05-88ad-5d9a42049c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serve.py" beforeDir="false" afterPath="$PROJECT_DIR$/serve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,22 +75,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607915556903" />
-    <state width="1899" height="220" key="GridCell.Tab.0.bottom" timestamp="1607943246784">
+    <state width="1899" height="220" key="GridCell.Tab.0.bottom" timestamp="1607943800033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607943246784" />
-    <state width="1899" height="220" key="GridCell.Tab.0.center" timestamp="1607943246784">
+    <state width="1899" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607943800033" />
+    <state width="1899" height="220" key="GridCell.Tab.0.center" timestamp="1607943800033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607943246784" />
-    <state width="1899" height="220" key="GridCell.Tab.0.left" timestamp="1607943246783">
+    <state width="1899" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607943800033" />
+    <state width="1899" height="220" key="GridCell.Tab.0.left" timestamp="1607943800033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607943246783" />
-    <state width="1899" height="220" key="GridCell.Tab.0.right" timestamp="1607943246784">
+    <state width="1899" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607943800033" />
+    <state width="1899" height="220" key="GridCell.Tab.0.right" timestamp="1607943800033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607943246784" />
+    <state width="1899" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607943800033" />
     <state x="463" y="166" key="SettingsEditor" timestamp="1607915023755">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -102,10 +99,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="443" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607915338350" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1607939137473">
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1608050301723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607939137473" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608050301723" />
     <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1607915052566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

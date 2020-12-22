@@ -14,25 +14,21 @@ def Dic_building(a):
     dictionary = set()
     if a != 'TOPIC':
         for content in contents:
-            if content is None: words='None'
-            else:
-                content=content.lower()
-                words = content.replace('"', '').replace('.', '').replace("'", "").replace(":", "").split()
-                for i, word in enumerate(words):
-                    words[i] = unicodedata.normalize('NFC', word)
+            if content is None: continue
+            words = content.replace('"', '').replace('.', '').replace("'", "").replace(":", "").split()
+            for i, word in enumerate(words):
+                words[i] = unicodedata.normalize('NFC', word)
             lst_contents.append(words)
             dictionary.update(words)
     else:
         for content in contents:
-            if content is None: words='None'
-            else:
-                s = ''
-                for i in content:
-                    s = s + i
-                s=s.lower()
-                words = s.replace('"', '').replace('.', '').replace("'", "").split()
-                for j, word in enumerate(words):
-                    words[j] = unicodedata.normalize('NFC', word)
+            if content is None: continue
+            s = ''
+            for i in content:
+                s = s + i
+            words = s.replace('"', '').replace('.', '').replace("'", "").split()
+            for j, word in enumerate(words):
+                words[j] = unicodedata.normalize('NFC', word)
             lst_contents.append(words)
             dictionary.update(words)
     dictionary = list(dictionary)
@@ -99,7 +95,7 @@ def Add_arr(arrs, arr):
         if i[0] == arr[0]:
             appear = True
             break
-    if not appear:
+    if appear == False:
         arrs.append(arr)
     else:
         for i in range(len(arrs)):
@@ -135,33 +131,18 @@ def ScalarModel(tfidf_query, dict_query, inv_files, dic):
                 kq_scalar = Add_arr(kq_scalar, tempp)
 
     kq_scalar = Sort_arr(kq_scalar)
-    print(kq_scalar)
-    arr_scalar = [kq_scalar[0][0]]
-
-    for i in range(1, len(kq_scalar)):
-        try:
-            kq_scalar[i][1][0]
-        except:
-            kq_scalar[i][1] = [kq_scalar[i][1]]
-
-        kq = (kq_scalar[i][1][0]) / (kq_scalar[i-1][1][0])
-        if round(kq) == 1:
-            if book_info._get_value(kq_scalar[i][0], 'COUNTHOLDING') > book_info._get_value(kq_scalar[i-1][0], 'COUNTHOLDING'):
-                swap(kq_scalar[i-1], kq_scalar[i])
+    arr_scalar = []
+    for i in range(len(kq_scalar)):
         arr_scalar.append(kq_scalar[i][0])
-
     return arr_scalar
 
 
 # Search
 def Search(query, topic):
-    query=query.lower()
     contents, lst_contents, dic, inv_files = Build_invfile(topic)
     tfidf_query, dict_query = Create_tfidf_query(query, lst_contents, inv_files)
     scalar = ScalarModel(tfidf_query, dict_query, inv_files, dic)
     No = []
     for i in scalar:
         No.append(book_info._get_value(i, 'NO'))
-
-    print(No)
     return No

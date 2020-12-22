@@ -5,7 +5,6 @@ import json
 
 with open('Book_info.json', 'r', encoding='utf-8') as json_file:
     data = json.load(json_file)
-    print(data[0])
 
 global model
 model = None
@@ -30,7 +29,7 @@ def index():
         f.write(checkbox+'\n')
         f.close()
         return render_template('index.html', form=form, categories=categories)
-    if query is not None:
+    if query and selected is not None:
         results = {
             'query': query,
             'category': selected,
